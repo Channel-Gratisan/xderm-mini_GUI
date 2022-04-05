@@ -400,7 +400,7 @@ echo '<center>
 
 echo '<div class="footer slide" style="display: flex; height: 110%; flex-shrink: 0; font-weight: bold; font-size: 80%; font-align: center; ! important; padding-bottom: 10px"><p style="text-align:center">
         Logo & Mods by <a href="https://me.helmiau.my.id" target="_blank">Helmi Amirudin</a> • Theme by <a href="https://www.facebook.com/agussriawan.id" target="_blank">Agus Sriawan</a><br>
-                Main Developer <a href="https://github.com/ryanfauzi1" target="_blank">Ryan Fauzi</a> • Copyright &copy 2021
+                Main Developer <a href="https://github.com/Channel-Gratisan/xderm-mini_GUI" target="_blank">MasWay</a> • Copyright &copy 2022
     </div>';
 }
 if($_POST['button2']){

@@ -18,7 +18,7 @@ ceklogin();
 			flex-direction: column; 
 			justify-content: center;
 			min-height: 0vh; 
-			color: black; 
+			color: red; 
 			background-image:url(img/background.jpg);
 			background-size: cover;
 			-webkit-background-size: cover;

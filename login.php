@@ -144,8 +144,8 @@ if ($show == "home"){
 		</div>
 	</div>
 	<div class="footer slide">
-        Theme Design by Agus Sriawan<br>
-		Copyright&copy Ryan Fauzi
+        Theme Design by MasWay<br>
+		Copyright&copy MasWay
     </div>';
 }
     session_unset();
